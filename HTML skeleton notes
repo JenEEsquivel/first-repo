@@ -1,0 +1,34 @@
+<!-- Tried to comment it out, but that doesn't seem to work.  What am I doing wrong?
+    
+        <meta name="description" content="Description of the site."/>
+    
+        <meta name="keywords" content="Web, Jennifer Esquivel, resume, YWCA, Madison, graphic art, CSS, html, JavaScript, web design, web development, portfolio"
+    
+        <meta name="robots" content="index, follow"/>
+
+        <link rel="icon" href="nameoficon.ico"/>
+
+        <link rel="stylesheet" href="style.css"
+
+        <script src="NameofMyJSFile.js"></script> -->
+
+------------
+After body tag 
+    <div id="wrapper">
+...
+    </div>
+
+        <meta charset="UTF-8"/>
+
+        <meta name="description" content="Description of the site."/>
+    
+        <meta name="keywords" content="Web, Jennifer Esquivel, resume, YWCA, Madison, graphic art, CSS, html, JavaScript, web design, web development, portfolio"/>
+    
+        <meta name="robots" content="index, follow"/>
+
+        <link rel="icon" href="nameoficon.ico"/>
+
+        <link rel="stylesheet" href="style.css"
+
+        <script src="NameofMyJSFile.js"></script>
+    
