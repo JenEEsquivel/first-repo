@@ -6,7 +6,7 @@ This week we are creating html skeletons.  I am pasting my code (that I am curre
 <html>
   <head>
     <title>Jennifer Esquivel's Website</title>
-        <meta charset="UTF-8"/>
+        <meta charset="UTF-8">
 
         <meta name="description" content="Description of the site."/>
     
@@ -18,7 +18,7 @@ This week we are creating html skeletons.  I am pasting my code (that I am curre
 
         <link rel="stylesheet" href="style.css"
 
-        <script src="NameofMyJSFile.js"></script>
+        <script src="NameJavaScriptfile.js"></script>
 </head>
   <body>    
     <div id="wrapper">
@@ -30,7 +30,10 @@ This week we are creating html skeletons.  I am pasting my code (that I am curre
 
   <h1>Jennifer Esquivel's Portfolio</h1>
     </header>
-
+<div class="search")/>
+  <form>
+<input type="search" placeholder="Search here..."></input>"
+  </form>
     <nav id="horzNav">
       <p>
         <a href="Portfolio.html">Portfolio</a>
@@ -58,7 +61,7 @@ This week we are creating html skeletons.  I am pasting my code (that I am curre
                 <li>Two</li>
               </ol>
             </li>
-          <li><i>italic</i></li>
+          <li><i>Italic</i></li>
           <li><strong>Strong</strong></li>
           <li><em>Emphasis</em></li>
           <li><del>Strike</del></li>
@@ -71,12 +74,12 @@ This week we are creating html skeletons.  I am pasting my code (that I am curre
         
         <h2>Things I need to figure out how to get into my head</h2>
         
-        <aside> This is stuff below (now inserted <del>into another file</del> into head) I want to include in my final website, but when I put it into my header, it shows up like the utf-8 does.
+        <aside> This is stuff below (now inserted into <del>into another file</del> head) I want to include in my final website, but when I put it into my header, it shows up like the utf-8 does.
         </aside>
     </div>
   </main>
   </body>
   <footer>
-    <a href="mailto:jeneesquivel@gmail.com">Send me an email</a>
+    <p><small>&copy; 2015 <a href="mailto:jeneesquivel@gmail.com">Send me an email</a></small></p>
   </footer>
 </html>
