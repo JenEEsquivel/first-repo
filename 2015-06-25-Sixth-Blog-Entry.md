@@ -1,12 +1,17 @@
-Sixth week blog
+##Sixth Week Blog
 
-This week we are creating html skeletons.  I am pasting my code (that I am currently working on) into this blog.  I'd like to come back and see where I was at this point (1/2 way through).  I added a few meta tags that don't work yet, but I think I'd like to include them in my website.
 
+This week, among many other things, we are creating html skeletons.  First we did mock navigation, then thumbnails, and finally wireframes.  I found those fun to do--*ACTUALLY Fun*--since I really enjoy being creative.  Now, from the wireframes, we are doing bare bones (errors are fine at this moment) .html coding for our pages. I am pasting my index.html code (that I am currently working on) into this blog.  (I know it is a mess, but I will have plenty of time to check and make sure there are no errors.  Also, I'd like to come back and see where I was at this point (1/2 way through).  I added a few meta tags that don't work yet, but I think I'd like to include them in my website.
+
+This is my index page.  It is certainly not great, but it is simply a start.  Once I get the coding corrected and add the css, I think I will be beautiful...(at least to me.)
 <!DOCTYPE html>
 <html>
   <head>
     <title>Jennifer Esquivel's Website</title>
         <meta charset="UTF-8">
+
+*[This (below) is some code that I got from various sources outside of class.  I have it here to remind me to figure out if I want to insert it into my index page, or any page.  I have about 20 pages of detailed notes that I wrote from youtube videos and online sources--from outside of class.  It is probably good to know, regardless.  Maybe we will go over this sometime soon in class, anyway.]*
+
 
         <meta name="description" content="Description of the site."/>
     
