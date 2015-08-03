@@ -1,0 +1,100 @@
+
+
+h1 {
+  font-family: Helvetica, serif;
+  background-color: #005C5C;
+  margin: auto;
+  border-bottom: 20px;
+
+}
+header {
+  font-family: Helvetica, serif;
+  background-color: #001F1F;
+  margin: auto;
+  text-align: center;
+}
+@font-face {
+    font-family: 'kaushan_scriptregular';
+    src: url('fonts/kaushanscript-regular-webfont.eot');
+    src: url('fonts/kaushanscript-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kaushanscript-regular-webfont.woff2') format('woff2'),
+         url('fonts/kaushanscript-regular-webfont.woff') format('woff'),
+         url('fonts/kaushanscript-regular-webfont.ttf') format('truetype'),
+         url('fonts/kaushanscript-regular-webfont.svg#kaushan_scriptregular') format('svg');
+    font-weight: normal;
+    font-style: cursive;
+}
+
+body {
+ font-family: Helvetica, serif;
+ background-color: #290033;
+ margin: auto;
+ color: #80CCCC; 
+  background: #fff url(http://cdn.wonderfulengineering.com/wp-content/uploads/2014/07/background-wallpapers-31.jpg) repeat; 
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'kaushan_scriptregular', cursive;
+   margin: auto; 
+}
+.boldtext {
+  background-color: white;
+}
+
+p { 
+  margin-top: 10px; 
+  text-align: justify;
+  font-family: Helvetica;
+  
+  border: 1px solid #555555;
+  background-color: #006B6B
+;
+  height: 120px; 
+}
+
+footer {
+  background-color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.buttontest
+.btn {
+  allign: center;
+  border-radius: 9px;
+  box-shadow: 5px 4px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+background .wrapper {
+  background: #009999 opacity 50% url(http://discover10.com/wp-content/uploads/2015/07/Free-Blue-Background.jpg) top right repeat;
+}  
+
+.page-wrapper {
+  color: #6600CC;
+}
+a:link { 
+  font-weight: bold; 
+  text-decoration: none; 
+  color: light blue;
+  }
+a:visited { 
+  font-weight: bold; 
+  text-decoration: none; 
+  color: #CC00FF
+;
+  }
+a:hover, a:focus, a:active { 
+  text-decoration: underline; 
+  color: aqua;
