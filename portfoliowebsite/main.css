@@ -1,18 +1,26 @@
-
-
-h1 {
-  font-family: Helvetica, serif;
-  background-color: #005C5C;
-  margin: auto;
-  border-bottom: 20px;
-
+body {
+ font-family: Helvetica, serif;
+ background-color: #290033;
+ margin: auto;
+ color: #80CCCC; 
+  background: #fff url(http://cdn.wonderfulengineering.com/wp-content/uploads/2014/07/background-wallpapers-31.jpg) repeat; 
+  padding: 0;
 }
+
 header {
   font-family: Helvetica, serif;
   background-color: #001F1F;
   margin: auto;
   text-align: center;
 }
+
+h1 {
+  font-family: Helvetica, serif;
+  background-color: #005C5C;
+  margin: auto;
+  border-bottom: 20px;
+}
+
 @font-face {
     font-family: 'kaushan_scriptregular';
     src: url('fonts/kaushanscript-regular-webfont.eot');
@@ -25,17 +33,11 @@ header {
     font-style: cursive;
 }
 
-body {
- font-family: Helvetica, serif;
- background-color: #290033;
- margin: auto;
- color: #80CCCC; 
-  background: #fff url(http://cdn.wonderfulengineering.com/wp-content/uploads/2014/07/background-wallpapers-31.jpg) repeat; 
-  padding: 0;
-}
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'kaushan_scriptregular', cursive;
+  text-align: center;
    margin: auto; 
 }
 .boldtext {
