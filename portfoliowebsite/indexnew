@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jennifer Esquivel's Portfolio</title>
+<LINK href="main.css" rel="stylesheet" type="text/css">
+  <meta charset="UTF-8">
+</head>
+<body>    
+  <div class="wrapper">
+    <header>
+
+      <h1>Jennifer Esquivel's Portfolio</h1>
+    </header>
+
+
+    <nav id="horzNav" >
+      <ul>
+        <li><a href="bio.html">About Me</a></li>
+        <li><a href="resume.html">Resume</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section>
+        <div id="buttontest" center>
+          <a href="#" class="btn">Contact Jennifer<a>
+          </div>
+        
+    <a href="#" class="btn">A Button<a>
+
+
+      </section>
+      <section id="boldtext">
+       <p> <b>Another section: Bold text to see what it looks like</b></p>
+     </section>
+       </div>
+ </div>
+</main>
+</body>
+<footer id="footer">
+  <p><small>&copy; 2015 <a href="mailto:jeneesquivel@gmail.com">Send me an email</a></small></p>
+</footer>
+
+</html>

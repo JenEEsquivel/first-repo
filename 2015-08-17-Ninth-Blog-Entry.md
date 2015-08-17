@@ -1,4 +1,4 @@
-#Ninth Blog Entry:  Time is flying and I'm now *actually* having fun!  
+#Ninth Blog Entry
 
 I am writing this week's blog at the beginning of the week (Sunday morning, actually).  This will be one more thing to check off the 'to do' list and free up my time for other projects.  I want to make sure that I have a blog submitted early so that I can devote my attention this week to my porfolio website and learning more JQuery, for example.  ]
 

@@ -38,10 +38,14 @@ h1 {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'kaushan_scriptregular', cursive;
   text-align: center;
-   margin: auto; 
+   margin: auto;
 }
+
+
 .boldtext {
-  background-color: white;
+horzNav {
+background-color: white;
+
 }
 
 p { 
